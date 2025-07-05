@@ -68,7 +68,7 @@ https://github.com/Minato0256/Escape-from-mansion/releases/tag/v1.0
 
 ## 📁 フォルダ構成（一部）
 
-Assets/
+Assets/  
 ├── OriginalAnimator/ … 自作のAnimation, Animator Controller  
 ├── OriginalCode/ … 自作スクリプト  
 ├── OriginalMaterial/ … 自作マテリアル  
