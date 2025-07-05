@@ -1,3 +1,4 @@
+//ボタンをクリックされた時のシーン遷移
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,6 +18,7 @@ public class TitleSceneManager : MonoBehaviour
         
     }
 
+    //「GameStart」ボタンがクリックされたら
     public void OnClick()
     {
         // メインシーンへ移動
