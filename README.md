@@ -13,7 +13,7 @@ Navigation（AIによる最短経路探索）を用いて、敵に見つかる�
 
 ## ゲームの遊び方
 
-↓こちらからダウンロード↓
+↓こちらからダウンロード↓  
 https://github.com/Minato0256/Escape-from-mansion/releases/tag/v1.0
 
 
@@ -69,15 +69,11 @@ https://github.com/Minato0256/Escape-from-mansion/releases/tag/v1.0
 ## 📁 フォルダ構成（一部）
 
 Assets/
-├── OriginalAnimator/ … 自作のAnimation, Animator Controller
-├── OriginalCode/ … 自作スクリプト
-├── OriginalMaterial/ … 自作マテリアル
-├── Scenes/ … Unityシーンファイル
-├── sound/ … 効果音・BGM
-
-yaml
-コピーする
-編集する
+├── OriginalAnimator/ … 自作のAnimation, Animator Controller  
+├── OriginalCode/ … 自作スクリプト  
+├── OriginalMaterial/ … 自作マテリアル  
+├── Scenes/ … Unityシーンファイル  
+├── sound/ … 効果音・BGM  
 
 ---
 
