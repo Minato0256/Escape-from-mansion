@@ -14,7 +14,7 @@ Navigation（AIによる最短経路探索）を用いて、敵に見つかる�
 ## ゲームの遊び方
 
 ↓こちらからダウンロード↓  
-https://github.com/Minato0256/Escape-from-mansion/releases/tag/v1.0
+https://github.com/Minato0256/Escape-from-mansion/releases
 
 
 ## 🛠 開発環境
